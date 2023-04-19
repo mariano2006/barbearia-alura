@@ -1,7 +1,22 @@
 body{
-    background-color: #ccc;
+    background-color: #e9e9e9;
 }
 h1{
-    color: rgb(161, 248, 0);
+    color: rgb(0, 0, 0);
     text-align: center;
+}
+
+p{
+    text-align: center;
+
+}
+
+
+#missao{
+    font-size: 20PX;
+
+  
+}
+em strong{
+    color: red;
 }
